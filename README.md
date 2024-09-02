@@ -9,12 +9,15 @@ display the students first name, last name is sorted alphabetically, and salary.
 in addition, there are displays of the average salary of the employee's function and select and display a random employee function. The outputs are displayed in the console log. 
 
 Installation
+
 N/A
 
 Usage
+
 A payroll manager can use the Employee Payroll Tracker application to view and manage employee payroll data.
 
 Credit
+
 100 points
 
 License
